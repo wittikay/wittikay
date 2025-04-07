@@ -1,11 +1,56 @@
-# Hello, my name is:
-### Karl Wilson
-##### I am a student and a full-time worker. In my free time I like to *learn*, produce music, and (go figure) play video games. 
-##### Arguably, I do alot less of that last one, and when I do, I tend to focus on strategic and creative games or simulators like Satisfactory and Minecraft.
-## I love challenging tasks. Currently, I am learning HTML, CSS, and Javascript.
+<style>
+    h1 {
+        font-size: 20px;
+        text-align: center;
+        font-weight: 800;
+    }
+    h2 {
+        font-size: 15px;
+        text-align: right;
+        font-weight: 200;
+    }
+    h3 {
+        font-size: 20px;
+        text-align: right;
+        font-weight: 400;
+    }
+    p {
+        font-size: 11px;
+        text-align: right;
+        font-weight: 1;
+    }
+    #toolsNlanguages {
+        display: flex;
+    }
+    #usedlanguages{
+        align: center;
+    }
+</style>
+<h1> Hello, my name is Karl Wilson</h1>
+<h2> I am a student and a full-time worker. In my free time I like to <i>learn</i>, produce music, and (go figure) play video games. </h2>
 
-![A picture of the three logos pertaining to HTML, CSS, and Javascript.](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.sketchfab.com%2Fmodels%2Fc705869a59ae4b3497ef7b5332963c3c%2Fthumbnails%2Fd790ffc579794d528e06d905d6ccfc9c%2F502972474da047ed9c497efb4aa2f6a2.jpeg&f=1&nofb=1&ipt=ea8d84f4c03abe7650823d9d5f5dcf1f3d1822abd15bbd72cf766821b31b1832&ipo=images)
+<p>Arguably, I do alot less of that last one, and when I do, I tend to focus on strategic and creative games or simulators like Satisfactory and Minecraft.</p>
 
-## Below are some projects I am proud to share with you:
+<h3> I love challenging tasks. Currently, I am learning HTML, CSS, and Javascript. Here are the tools and languages I have exposure with:</h3>
+
+<div id="toolsNlanguages" style="
+display: flex;
+">
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="75" height="75"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="75" height="75"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/> </a> 
+<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="75" height="75"/> </a> 
+<a href="https://stackoverflow.com/users/21637883/wittikay" target="_blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="wittikay" height="75" width="75" /></a>
+</p>
+</div>
+
+<p><img id="usedlanguages" src="https://github-readme-stats.vercel.app/api/top-langs?username=wittikay&show_icons=true&locale=en&layout=compact" alt="wittikay" /></p>
+
+## Below are some projects I am proud to share with you. 
+###### The README file you are reading now was created by me of course. I opted out of using generators and instead plucked usable blocks from other sources as well as coding some elements myself:
 
     - [INSERT]
+
+
+
