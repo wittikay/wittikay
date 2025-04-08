@@ -52,10 +52,9 @@ margin-bottom: 15px;
     ">
 <p><img style="align: center;"src="https://github-readme-stats.vercel.app/api/top-langs?username=wittikay&show_icons=true&locale=en&layout=compact" alt="wittikay" /></p> </div>
 
-## Below are some projects I am proud to share with you. 
-###### The README file you are reading now was created by me of course. I opted out of using generators and instead plucked usable blocks from other sources as well as coding some elements myself:
-
-    - [INSERT]
+## Below are some projects I am proud to share with you:
+1. This README.md can be seen having styling applied to it, which is not visible via GitHub. This was something I thought would be fun to accomplish regardless.
+![alt text](image.png)
 
 
 
