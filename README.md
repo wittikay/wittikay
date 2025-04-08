@@ -25,7 +25,16 @@ font-weight: 400;
 "> I love challenging tasks. Currently, I am learning HTML, CSS, and Javascript. Here are the tools and languages I have exposure with:</h3>
 
 <div id="toolsNlanguages" style="
-display: flex;
+display:flex;
+justify-content: space-evenly;
+display: grid;
+grid-template-columns: repeat(3, auto);
+gap: 20px;
+background: rgb(2,0,36);
+background: radial-gradient(circle, rgb(57, 49, 199) 0%, rgba(17, 17, 210, 0.8) 0%, rgba(0,212,255,1) 100%);
+border-radius: 15px;
+padding: 14px 10px 0px 10px;
+margin-bottom: 15px;
 ">
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="75" height="75"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> </a>
@@ -35,7 +44,13 @@ display: flex;
 <a href="https://stackoverflow.com/users/21637883/wittikay" target="_blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="wittikay" height="75" width="75" /></a>
 </p>
 </div>
-<p><img style="align: center;"src="https://github-readme-stats.vercel.app/api/top-langs?username=wittikay&show_icons=true&locale=en&layout=compact" alt="wittikay" /></p>
+<div 
+    id="usedlanguages" 
+    style="
+    display: flex;
+    justify-content: center;
+    ">
+<p><img style="align: center;"src="https://github-readme-stats.vercel.app/api/top-langs?username=wittikay&show_icons=true&locale=en&layout=compact" alt="wittikay" /></p> </div>
 
 ## Below are some projects I am proud to share with you. 
 ###### The README file you are reading now was created by me of course. I opted out of using generators and instead plucked usable blocks from other sources as well as coding some elements myself:
