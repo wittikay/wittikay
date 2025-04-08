@@ -36,12 +36,12 @@ border-radius: 15px;
 padding: 14px 10px 0px 10px;
 margin-bottom: 15px; */
 ">
-<a style="text-decoration: none;" href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="75" height="75"/> </a> 
-<a style="text-decoration: none;" href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> </a>
-<a style="text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="75" height="75"/> </a> 
-<a style="text-decoration: none;" href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/> </a> 
-<a style="text-decoration: none;" href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="75" height="75"/> </a> 
-<a style="text-decoration: none;" href="https://stackoverflow.com/users/21637883/wittikay" target="_blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="wittikay" height="75" width="75" /></a>
+<a style="text-decoration: none;" href="https://www.w3schools.com/css/" target="_blank"> <img style="text-decoration: none;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="75" height="75"/> </a> 
+<a style="text-decoration: none;" href="https://www.w3.org/html/" target="_blank"> <img style="text-decoration: none;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> </a>
+<a style="text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img style="text-decoration: none;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="75" height="75"/> </a> 
+<a style="text-decoration: none;" href="https://git-scm.com/" target="_blank"> <img  style="text-decoration: none;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/> </a> 
+<a style="text-decoration: none;" href="https://www.figma.com/" target="_blank"> <img  style="text-decoration: none;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="75" height="75"/> </a> 
+<a style="text-decoration: none;" href="https://stackoverflow.com/users/21637883/wittikay" target="_blank"><img style="text-decoration: none;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="wittikay" height="75" width="75" /></a>
 </p>
 </div>
 <div 
