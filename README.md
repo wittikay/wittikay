@@ -29,7 +29,7 @@ font-weight: 400;
 font-size: 16px;
 text-align: right;
 font-weight: 1;
-">See my landing page here: https://wittikay.github.io/landingPage/</p>
+">See my landing page here: <a target="_blank" href="https://wittikay.github.io/landingPage/"></p>
 
 <div id="toolsNlanguages" style="
 /* display:flex;
