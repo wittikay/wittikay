@@ -5,6 +5,7 @@ font-size: 20px;
 text-align: center;
 font-weight: 800;
 "> Hello, my name is Karl Wilson</h1>
+
 <h2
 style="
 font-size: 15px;
@@ -23,6 +24,12 @@ font-size: 20px;
 text-align: right;
 font-weight: 400;
 "> I love challenging tasks. Currently, I am learning HTML, CSS, and Javascript. Here are the tools and languages I have exposure with:</h3>
+
+<p style="
+font-size: 16px;
+text-align: right;
+font-weight: 1;
+">See my landing page here: https://wittikay.github.io/landingPage/</p>
 
 <div id="toolsNlanguages" style="
 /* display:flex;
