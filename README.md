@@ -31,7 +31,7 @@ text-align: right;
 font-weight: 1;
 ">See my landing page here:(CTRL+click (on Windows and Linux) or CMD+click (on MacOS) to open in new tab: <a href="https://wittikay.github.io/landingPage/" target="_blank" >wittikay.</p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ableton,azure,bash,discord,figma,git,github,gmail,notion,npm,postgres,powershell,replit,stackoverflow,vim,visualstudio,vite,webpack&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ableton,azure,bash,discord,figma,git,github,gmail,notion,npm,postgres,powershell,replit,stackoverflow,vim,visualstudio,vite,webpack&theme=light&perline=3)](https://skillicons.dev)
 
 
 
