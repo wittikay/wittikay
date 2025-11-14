@@ -11,13 +11,13 @@ style="
 font-size: 15px;
 text-align: right;
 font-weight: 200;
-"> I am a student and a full-time worker. In my free time I like to <i>learn</i>, produce music, and (go figure) play video games. </h2>
+"> I am a student and a full-time worker. In my free time I like to <i>learn</i>, produce music, and understand complex tasks/processes. </h2>
 
 <p style="
 font-size: 11px;
 text-align: right;
 font-weight: 1;
-">Arguably, I do alot less of that last one, and when I do, I tend to focus on strategic and creative games or simulators.</p>
+">Arguably, I do alot less of that last one.. but when I do, I seem to know what to do from there.</p>
 
 <h3 style="
 font-size: 20px;
