@@ -4,7 +4,7 @@ style="
 font-size: 20px;
 text-align: center;
 font-weight: 800;
-"> Hello, my name is Karl Wilson</h1>
+">My name is Karl Wilson</h1>
 
 <h2
 style="
