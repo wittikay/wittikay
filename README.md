@@ -17,7 +17,7 @@ font-weight: 200;
 font-size: 11px;
 text-align: right;
 font-weight: 1;
-">Arguably, I do alot less of that last one, and when I do, I tend to focus on strategic and creative games or simulators like Satisfactory and Minecraft.</p>
+">Arguably, I do alot less of that last one, and when I do, I tend to focus on strategic and creative games or simulators.</p>
 
 <h3 style="
 font-size: 20px;
