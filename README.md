@@ -1,37 +1,43 @@
+<h1 align="center">Hey, I'm Karl Wilson 👋</h1>
 
-<h1
-style="
-font-size: 20px;
-text-align: center;
-font-weight: 800;
-">My name is Karl Wilson</h1>
+<p align="center">
+  Student · Full-Time IT Technician · Aspiring Software Engineer
+</p>
 
-<h2
-style="
-font-size: 15px;
-text-align: right;
-font-weight: 200;
-"> I am a student and a full-time worker. In my free time I like to <i>learn</i>, produce music, and understand complex tasks/processes. </h2>
+---
 
-<p style="
-font-size: 11px;
-text-align: right;
-font-weight: 1;
-">Arguably, I do alot less of that last one.. but when I do, I seem to know what to do from there.</p>
+<p align="right">
+  I'm a full-time worker and a software engineering student. In my free time I like to
+  <i>learn</i>, produce music, and work through complex problems — though I'll admit I
+  do a lot less of that last one. But when I do, I tend to figure out what needs to happen next.
+</p>
 
-<h3 style="
-font-size: 20px;
-text-align: right;
-font-weight: 400;
-"> I love challenging tasks. Currently, I am learning HTML, CSS, and Javascript. Here are the tools and languages I have exposure with:</h3>
+<p align="right">
+  I love a good challenge.
+  Below are the tools and languages I've had exposure to so far.
+</p>
 
-<p style="
-font-size: 16px;
-text-align: right;
-font-weight: 1;
-">See my landing page here:(CTRL+click (on Windows and Linux) or CMD+click (on MacOS) to open in new tab: <a href="https://wittikay.github.io/landingPage/" target="_blank" >wittikay.</p>
+---
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ableton,azure,bash,discord,figma,git,github,gmail,notion,npm,postgres,powershell,replit,stackoverflow,vim,visualstudio,vite,webpack&theme=light&perline=3)](https://skillicons.dev)
+### 🛠️ Tools & Technologies
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ableton,azure,bash,discord,figma,git,github,gmail,notion,npm,postgres,powershell,replit,stackoverflow,vim,visualstudio,vite,webpack&theme=light&perline=7)](https://skillicons.dev)
 
+> **Proficient:** HTML, CSS, Git, GitHub
+> **Exposure:** JavaScript, Bash, npm, Vite, Webpack, PostgreSQL, PowerShell, Figma, Notion, Replit, Vim, Azure
 
+---
+
+### 🌐 Portfolio
+
+Check out my landing page:
+[wittikay.github.io/landingPage](https://wittikay.github.io/landingPage/)
+
+> CTRL+click (Windows/Linux) or CMD+click (macOS) to open in a new tab.
+
+---
+
+### 📬 Contact
+
+- 📧 [karl122701@gmail.com](mailto:karl122701@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/karl-wilson-673289191/)
