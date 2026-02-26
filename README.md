@@ -13,7 +13,7 @@
 </p>
 
 <p align="right">
-  I love a good challenge.
+  I love a good challenge. Right now I'm sharpening my skills in HTML, CSS, and JavaScript.
   Below are the tools and languages I've had exposure to so far.
 </p>
 
@@ -23,7 +23,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ableton,azure,bash,discord,figma,git,github,gmail,notion,npm,postgres,powershell,replit,stackoverflow,vim,visualstudio,vite,webpack&theme=light&perline=7)](https://skillicons.dev)
 
-> **Proficient:** HTML, CSS, Git, GitHub
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
+> **Proficient:** HTML, CSS, Git, GitHub, GitHub Copilot
 > **Exposure:** JavaScript, Bash, npm, Vite, Webpack, PostgreSQL, PowerShell, Figma, Notion, Replit, Vim, Azure
 
 ---
