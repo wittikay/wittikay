@@ -8,8 +8,7 @@
 
 <p align="right">
   I'm a full-time worker and a software engineering student. In my free time I like to
-  <i>learn</i>, produce music, and work through complex problems — though I'll admit I
-  do a lot less of that last one. But when I do, I tend to figure out what needs to happen next.
+  <i>learn</i>, produce music, and work through complex problems.
 </p>
 
 <p align="right">
