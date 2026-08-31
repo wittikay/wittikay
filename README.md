@@ -28,6 +28,22 @@
   It's to keep learning enough to build things that didn't exist before.
 </p>
 
+<h2 align="center">🎵 wittikay.exe</h2>
+
+<p align="center">
+  Technology isn't the only output.
+</p>
+
+<p align="center">
+  wittikay is also my electronic music identity — another outlet for experimentation,
+  except the debugging process involves considerably more synthesizers.
+</p>
+
+<p align="center">
+  🎧 <a href="https://soundcloud.com/wittikay"><b>soundcloud.com/wittikay</b></a>
+</p>
+
+
 ---
 
 <h2 align="center">⚡ Current Activities</h2>
